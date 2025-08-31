@@ -38,7 +38,7 @@ This project presents an interactive HR Analytics dashboard built using **Power 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./Screenshot%202025-08-30%20220651.png)
+![Dashboard Screenshot](./Dashboard_SS.png)
 
 ## How to Use
 
